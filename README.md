@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+I’m data analyst with five years of experience aspired to get into software development. I have studied JS, styling and other tools for frontend development and I am glad for any experience that will help improve my skills as a programmer.
+
+I am pretty aware it is not the easiest way of ninja, but it is worth it all to start my career there, constantly learning new technologies and making world a better place to live our simple lives and experience beautiful interfaces 😊
+
+
 <!--
 **AizhanSmekenova/AizhanSmekenova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
